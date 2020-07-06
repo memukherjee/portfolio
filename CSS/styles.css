@@ -58,6 +58,9 @@ a:hover{
   left: 300px;
   bottom: 300px;
 }
+.mountain{
+  width: 50%;
+}
 .top-container{
   background-color: #e2f8f6;
   position: relative;
