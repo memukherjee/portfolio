@@ -47,10 +47,10 @@ a:hover{
   right:300px;
 }
 .sun{
-  position: relative;
+  position: absolute;
   width: 12%;
-  right: 300px;
-  bottom: 50px;
+  top: 50px;
+  left: 200px;
   margin-bottom: 0;
 }
 .bottom-cloud{
